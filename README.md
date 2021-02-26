@@ -4,6 +4,8 @@
 
 A pleasant and complete Java wrapper for the Tumblr V2 API.
 
+This version was updated by Linus12
+
 ## Example
 
 ``` java
